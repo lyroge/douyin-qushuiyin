@@ -37,5 +37,3 @@ wx.saveVideoToPhotosAlbum({
    }
 })
 ```
-
-
