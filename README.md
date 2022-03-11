@@ -11,4 +11,4 @@
 #### 联系作者
 如果需要帮助，可以联系我交流沟通 ;)
 
-![刚子](gangzi.jpg)
+![刚子](https://gitee.com/zhengang-s/douyin-qushuiyin/raw/master/gangzi.jpg)
