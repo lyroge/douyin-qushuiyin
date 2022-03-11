@@ -5,7 +5,7 @@
 #### 体验效果
 扫描下面二维码进行学习
 
-![猴子去水印](qrcode.jpg)
+![猴子去水印](https://gitee.com/zhengang-s/douyin-qushuiyin/raw/master/qrcode.jpg)
 
 
 #### 联系作者
